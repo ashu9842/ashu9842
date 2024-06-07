@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashu9842
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently Pursuing B.Tech
+- 🌱 I’m currently Pursuing B.Tech (C.S.E)
 - 📫 Linkedin - www.linkedin.com/in/ashutosh-6a973a295
 - 😄 He/Him
 
