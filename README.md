@@ -10,7 +10,7 @@
 -<img align="right" height="200" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
 - 💬 Ask me about:  **Web development ,python etc**
 
-- 📫 How to reach me:  **www.linkedin.com/in/ashutosh-6a973a295**
+- 📫 How to reach me:  **www.linkedin.com/in/ashutosh9841**
 
 - 📄 Know about my experiences:  Web development Intern | CodeSoft | [02-2025] - [03-2025]
 
