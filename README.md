@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on:  **A Web development project using React and Node.js**
 
 - 🌱 I’m currently learning:  **Cloud computing**
--<img align="right" height="200" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="" />
+-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="" />
 - 💬 Ask me about:  **Web development ,python etc**
 
 - 📫 How to reach me:  **www.linkedin.com/in/ashutosh9841**
