@@ -1,13 +1,13 @@
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="" />
 
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2Nzk3NTIsIm5iZiI6MTc0MTY3OTQ1MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzExVDA3NTA1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4NGQxZWQxNzNmYjE3OGI4NDljOGM3NGI1YTI4OWJhNmI3Yjc1ZDQ0OWM0MTY3N2RiZTMxYjE4ZjYyN2IyNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gPgB0iEY4lPsFxNZgHMZ0IEAxbLVJ7syKl9wM4eVcSQ" alt="" />
 
-<h1 align="center">Hi 👋, I'm Ashutosh</h1>
+<h1 align="center">Hi <img height="45"src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" />, I'm Ashutosh</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 - 🔭 I’m currently working on:  **A Web development project using React and Node.js**
 
 - 🌱 I’m currently learning:  **Cloud computing**
--<img align="right" height="200" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" />
+-<img align="right" height="200" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="" />
 - 💬 Ask me about:  **Web development ,python etc**
 
 - 📫 How to reach me:  **www.linkedin.com/in/ashutosh9841**
