@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on:  **A Web development project using React and Node.js**
 
-- 🌱 I’m currently learning:  **Cloud computing**
+- 🌱 I’m currently learning:  **Machine Learning**
 
 - 💬 Ask me about:  **Web development ,python etc**
 
